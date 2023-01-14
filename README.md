@@ -1,2 +1,2 @@
-# roadmap
-Welcome to the Public Roadmap for All Things Oatfin! We welcome your ideas.
+# Oatfin Roadmap
+Thank you for the interest in Oatfin and our products! This is the public roadmap for Oatfin Products.
